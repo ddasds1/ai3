@@ -74,6 +74,12 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
     #   "images": ["https://.../jjampong1.jpg", "https://.../jjampong2.jpg"],
     #   "videos": ["https://youtu.be/XXXXXXXXXXX"]
     # },
+
+    labels[0]:{"texts":["냄새가 나는 따끈한 죽!"]},
+    labels[1]:{"texts":["엔믹스의 리더"]},
+    labels[2]:{"texts":["바사카고 맛있는 구태s 치킨"]},
+ 
+
 }
 
 # ======================
