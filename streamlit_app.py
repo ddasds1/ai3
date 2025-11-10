@@ -77,8 +77,10 @@ CONTENT_BY_LABEL: dict[str, dict[str, list[str]]] = {
 
     labels[0]:{"texts":["냄새가 나는 따끈한 죽!"],
                "videos":["https://youtube.com/shorts/7riMEJIVZa8?si=Zleiw04GU2OHU9oL"]},
-    labels[1]:{"texts":["엔믹스의 리더"],},
-    labels[2]:{"texts":["바사카고 맛있는 구태s 치킨"],},
+    labels[1]:{"texts":["엔믹스의 리더"],
+              "videos":["https://youtube.com/shorts/wPJgQH5I3hY?si=PPSXag08ulKRTVc-"]},
+    labels[2]:{"texts":["바사카고 맛있는 구태s 치킨"],
+               "videos":["https://youtube.com/shorts/wPJgQH5I3hY?si=PPSXag08ulKRTVc-"]},
  
 
 }
